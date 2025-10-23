@@ -29,6 +29,7 @@ h1 {
 }
 .grid-item.item-4 {
     grid-column: auto;
+    align-self: end;
 }
 .grid-item.item-5 {
     grid-column: 1 / -1;
